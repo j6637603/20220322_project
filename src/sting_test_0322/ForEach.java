@@ -22,9 +22,9 @@ public class ForEach {
 		
 		//String [] 배열의 문자열을 출력
 		
-		String f[] = {"사과", "배", "바나나", "체리", "딸기", "포도"};
+		String fruits[] = {"사과", "배", "바나나", "체리", "딸기", "포도"};
 		
-		for(String s : f) {
+		for(String s : fruits) {
 			System.out.print(s + " ");
 		}
 		
