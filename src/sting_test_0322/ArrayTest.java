@@ -4,7 +4,8 @@ public class ArrayTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//<배열>
+		
 		//배열 선언 방법
 		int arr1[];
 		int[] arr2;
@@ -23,7 +24,7 @@ public class ArrayTest {
 		
 		arr1[0] = 10; //arr1배열의 첫번째 칸에 10 입력
 		
-		//배열의 길이 계산 방법
+		//<배열의 길이 계산 방법>
 		//반복문에서 조건문 작성하기 편함
 		//(상수 대신 배열의 전체 값 구하는 length 사용)
 		int arr_length = arr1.length;
