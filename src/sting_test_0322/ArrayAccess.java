@@ -26,8 +26,7 @@ public class ArrayAccess {
 		}
 		
 		System.out.println("가장 큰 수는 " + max + "입니다.");
-		
-		
+				
 		scan.close();
 		
 	}
